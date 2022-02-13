@@ -1,8 +1,7 @@
 # Squid Shooter
 Project 02 for BL-MSCH-C220 at Indiana University, created 2/12/2022
-A simple 2D Space Shooter
 
-Description
+A simple 2D Space Shooter
 
 ## Implementation
 Keyboard Control
